@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 if __name__ == '__main__':
 
     with open('benchmarks.csv', 'w') as benchmarks_file:
-        benchmark_header = "job_title,reliability,link,team,median_salary,90th_salary,median_YoY,sample_size\n"
+        benchmark_header = "job_title,reliability,link,team,median_salary,90th_salary,sample_size,median_YoY\n"
         benchmarks_file.write(benchmark_header)
         print(benchmark_header)
 
@@ -43,7 +43,7 @@ if __name__ == '__main__':
                 else:
                     median_change = "-"
 
-                benchmark_row = f"{job.get('Job Title')},{job.get('Reliability')},{job.get('Link')},{job.get('Team')},{median_salary},{ninetieth_salary},{median_change},{sample_size}\n"
+                benchmark_row = f"{job.get('Job Title')},{job.get('Reliability')},{job.get('Link')},{job.get('Team')},{median_salary},{ninetieth_salary},{sample_size},{median_change}\n"
                 benchmarks_file.write(benchmark_row)
                 print(benchmark_row)
             except Exception as e:
