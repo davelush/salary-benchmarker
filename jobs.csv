@@ -1,5 +1,22 @@
-﻿Job Title,Reliability,Link,Team
-Senior Data Engineer,high,https://www.itjobswatch.co.uk/jobs/uk/senior%20data%20engineer.do,Data
-Senior Data Scientist,high,https://www.itjobswatch.co.uk/jobs/uk/senior%20data%20scientist.do,Data
-Senior Software Engineer,high,https://www.itjobswatch.co.uk/jobs/uk/senior%20software%20engineer.do,Engineering
-Senior Product Manager,high,https://www.itjobswatch.co.uk/jobs/uk/senior%20product%20manager.do,Product
+﻿Job Title,Reliability,Link,Team,Active
+Associate Data Engineer,Low,https://www.itjobswatch.co.uk/jobs/uk/junior%20data%20engineer.do,Data,active
+Data Engineer,High,https://www.itjobswatch.co.uk/jobs/uk/data%20engineer.do,Data,active
+Senior Data Engineer,Medium,https://www.itjobswatch.co.uk/jobs/uk/senior%20data%20engineer.do,Data,active
+Associate Data Scientist,Low,https://www.itjobswatch.co.uk/jobs/uk/junior%20data%20scientist.do,Data,active
+Data Scientist,Medium,https://www.itjobswatch.co.uk/jobs/uk/data%20scientist.do,Data,active
+Senior Data Scientist,Medium,https://www.itjobswatch.co.uk/jobs/uk/senior%20data%20scientist.do,Data,active
+Principal Data Scientist,Low,https://www.itjobswatch.co.uk/jobs/uk/lead%20data%20scientist.do,Data,active
+Head of Data,Low,https://www.itjobswatch.co.uk/jobs/uk/head%20of%20data%20science.do,Data,active
+Associate Software Engineer,Medium,https://www.itjobswatch.co.uk/jobs/uk/junior%20software%20engineer.do,Engineering,active
+Software Engineer,High,https://www.itjobswatch.co.uk/jobs/uk/software%20engineer.do,Engineering,active
+Senior Software Engineer,High,https://www.itjobswatch.co.uk/jobs/uk/senior%20software%20engineer.do,Engineering,active
+Principal Software Engineer,Medium,https://www.itjobswatch.co.uk/jobs/uk/principal%20engineer.do,Engineering,active
+Associate DevOps Engineer,Medium,https://www.itjobswatch.co.uk/jobs/uk/junior%20devops%20engineer.do,Engineering,active
+DevOps Engineer,High,https://www.itjobswatch.co.uk/jobs/uk/devops%20engineer.do,Engineering,active
+Senior DevOps Engineer,High,https://www.itjobswatch.co.uk/jobs/uk/senior%20devops%20engineer.do ,Engineering,active
+Associate Quality Engineer,Low,https://www.itjobswatch.co.uk/jobs/uk/junior%20qa%20engineer.do,Engineering,active
+Quality Engineer,Medium,https://www.itjobswatch.co.uk/jobs/uk/quality%20engineer.do,Engineering,active
+Senior Quality Engineer,Medium,https://www.itjobswatch.co.uk/jobs/uk/senior%20quality%20engineer.do,Engineering,active
+Engineering Lead,High,https://www.itjobswatch.co.uk/jobs/uk/senior%20software%20engineer.do,Engineering,active
+Engineering Manager,High,https://www.itjobswatch.co.uk/jobs/uk/engineering%20manager.do,Engineering,active
+Head of Engineering,High,https://www.itjobswatch.co.uk/jobs/uk/head%20of%20engineering.do,Engineering,active

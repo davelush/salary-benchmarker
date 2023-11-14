@@ -20,7 +20,7 @@ if __name__ == '__main__':
                 jobs.append(dictionary)
 
         for job in jobs:
-            job_page = job.get("Link")
+            job_page = job.get("Link").strip()
             page = requests.get(job_page)
             page_text = page.text
             soup = BeautifulSoup(page_text, "html.parser")
